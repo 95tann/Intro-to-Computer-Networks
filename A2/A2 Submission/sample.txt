@@ -1,0 +1,9 @@
+# *************************************************************
+#  CS 456    : Computer Networks
+#  assignment: 2
+#  filename  : sample.txt
+#  author    : Tanmay Shah
+# *************************************************************
+
+This is a sample text file to be used for testing purposes.
+EOF
