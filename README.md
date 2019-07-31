@@ -1,2 +1,2 @@
-# Intro-to-Computer-Networks
+# Intro To Computer Networks
 Code implementations of a few computer networking topics  
