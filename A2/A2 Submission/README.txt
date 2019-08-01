@@ -2,7 +2,7 @@
 #  CS 456    : Computer Networks
 #  assignment: 2
 #  filename  : README.txt
-#  author    : Tanmay Shah
+#  author    : Tanmay
 # *************************************************************
 
 Summary
